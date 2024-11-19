@@ -1,1 +1,6 @@
-![alt text](https://github.com/VandyProject/project-E-commerce/blob/main/foto_produk/login.png?raw=true)
+![alt text](https://github.com/VandyProject/Portofolio/blob/main/image/1.png?raw=true)
+![alt text](https://github.com/VandyProject/Portofolio/blob/main/image/2.png?raw=true)
+![alt text](https://github.com/VandyProject/Portofolio/blob/main/image/3.png?raw=true)
+![alt text](https://github.com/VandyProject/Portofolio/blob/main/image/4.png?raw=true)
+![alt text](https://github.com/VandyProject/Portofolio/blob/main/image/5.png?raw=true)
+![alt text](https://github.com/VandyProject/Portofolio/blob/main/image/6.png?raw=true)
